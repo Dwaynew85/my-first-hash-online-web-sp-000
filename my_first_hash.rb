@@ -19,7 +19,7 @@ def retrieval
                  }
                 shipping_manifest["whale bone corsets"]
                 shipping_manifest["porcelain vases"]
-                shipping_manifest["oil paintings"] 
+                shipping_manifest["oil paintings"]
 
 end
 
